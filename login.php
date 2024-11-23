@@ -132,6 +132,7 @@ if (isset($_POST['txtuname'])) {
 
 </head>
   <body>
+<-- this is login -->
 <div class="well" style="background-color:#ABA2FF;color:#000132;font-family: Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif;letter-spacing:2px;font-size:25px">SMART SERVICE NAVIGATION SYSTEM </div>
 <div class="container-fluid" style="margin-top:-21px">
 </div>
