@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:areaid;datatype:int,name:acode;datatype:string,name:aname;datatype:string" />
+</info>

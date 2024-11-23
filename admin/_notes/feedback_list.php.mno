@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_prev" value="name:fno;datatype:int,name:fdate;datatype:datetime,name:regno;datatype:int,name:feedback;datatype:string,name:regno;datatype:int,name:name;datatype:string,name:acode;datatype:string,name:addr;datatype:string,name:contact;datatype:string,name:email;datatype:string,name:uname;datatype:string,name:pwd;datatype:string" />
+</info>
